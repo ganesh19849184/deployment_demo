@@ -1,0 +1,424 @@
+{
+  "type": "item",
+  "hero_title": {
+    "en": "#### #### ## ### #####..."
+  },
+  "slug": "capsulized",
+  "teaser_title": {
+    "en": "#####'# ##### #####-## ######### ########"
+  },
+  "double_color_title": false,
+  "seo": {
+    "en": {
+      "image": null,
+      "title": "########## | ######## ########",
+      "description": null,
+      "twitter_card": null
+    }
+  },
+  "teaser_description": {
+    "en": ""
+  },
+  "title": "##########",
+  "label": {
+    "en": ""
+  },
+  "pre_title": {
+    "en": ""
+  },
+  "content_area": {
+    "en": [
+      {
+        "type": "item",
+        "attributes": {
+          "video": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57197007"
+          },
+          "poster_image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "58022182"
+          },
+          "title": "#### #### ## ### #####",
+          "cta_text": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2019694",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "#####'# ##### #####-## ######### ########",
+          "body": "######## ######## ### #### ######### - ### ########### - ######## ##### 1975. ### ### ##’## ##### ## ##### #### ### ###### ## ### #####’# ##### #####-##, ######### ######## ########## ########## #### # #### ## ####### ####### ########. #### ###-#######, ###########, ### ######## ########, ##### ######## ####### # ####### ## ######## ### ####### #### ####### #### ##### #### ## ######## ## ###.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "55236069"
+          },
+          "small": false
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1389420",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "###-#######, ########### ###### ##########    ",
+          "body": "### ##### ### 6590 ############, ####### ######## ##########™ ######## ####### ####### ### ### ###### ## ## ######### ######## ### ########### ####### #### ### ####### ### #### ##### #####. ### ####### ### ## ########## ########### ## #######-#### ########## ########## ####### #### ### ####-########### ######## ####-###. ### 6590 ######## #### ###### ### ####### ###### ### ######### #### ### ########## ## ### ####, ### #### ### ########### ### ########## ## ######-####-#####, ######### #### ##########.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "6590 AllroundWork, Stretch Trousers Capsulized™ Kneepads Holster Pockets",
+          "text_content": "### #####’# ##### #### ####### #### ## 14404-######### ######## ########### ###### #### #####. ####### ### ###########, ##### ####-### ######## ### ##### ### ######## ###.",
+          "text_content_center": false,
+          "text_content_right": false,
+          "text_background_color": {
+            "red": 242,
+            "blue": 242,
+            "alpha": 255,
+            "green": 242
+          },
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "58314562"
+          },
+          "align_media_left": false,
+          "video": null,
+          "cta_label": "Get Capsulized™  ",
+          "cta_url": "/products/trousers/work-trousers",
+          "cta_color": {
+            "red": 15,
+            "blue": 14,
+            "alpha": 255,
+            "green": 14
+          },
+          "cta_text_color": {
+            "red": 248,
+            "blue": 244,
+            "alpha": 255,
+            "green": 247
+          }
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2025973",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "text": "####### ## ######## #### ###### ##### #### ##### ### ## ######## ## ###."
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387755",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "####-### ######## ### ######## ###",
+          "body": "##### ####-####### ######## ####### ## ######## ########### ###### ## # 2-### ####### ###### ### ########## 4-### ####### ###### ## ### ###### ######. #######® ########## #######, #####, ### #####, ####### ### # ####### ############# ### #### ########-#####. ### ### ### ####### ### ########### ##########™ ######## ####### ## #########, ######-## ########## ###### #### ###### #######.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "######### ######### ## ## 14404",
+          "text_content": "### ##########™ ######## ### ######### ##### 1 #### ##########. #######, ## #### ### ##### ##########, ####### ####### #### ### ###### ## #### ######### ### ###### ####### ###########. ## #### #### #### ######## ### #### ### ### ### ### ## ####, ##### ### #### #####.  ",
+          "text_content_center": false,
+          "text_content_right": false,
+          "text_background_color": {
+            "red": 255,
+            "blue": 0,
+            "alpha": 255,
+            "green": 214
+          },
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57947326"
+          },
+          "align_media_left": true,
+          "video": null,
+          "cta_label": "### #### ##### ####",
+          "cta_url": "/list/product-guide/size-guide",
+          "cta_color": {
+            "red": 12,
+            "blue": 12,
+            "alpha": 255,
+            "green": 12
+          },
+          "cta_text_color": {
+            "red": 249,
+            "blue": 249,
+            "alpha": 255,
+            "green": 249
+          }
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2025973",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "### ###### ## ##########™",
+          "body": "### ### ##########™ ######## ### ###### ######## #### 196° # ## ########### ####. ## ### ####### ## # ##### ## ####### #######® ####### ######. #### ##### ## ######## ##### ### ########### #### ######## ### #######® ## ### ##### ########### ##### ## ####-####### #### ####. #### #### #### ### # 110 ## ####### ## ###### ##########. #### ##### # ###### ###### ## ####-####### ######## ###### #### ######## # ######## 238 ## ####### ## ########### ##########. ####’# ###### ## # ####### ##### ## #### #### #### ## ########## 80 ## #######. ####### # ####### ## ######### ###### ##### ### ##### ###### #### ### ####### ### ### ######## # ########### ####### ### ### ######.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "### ##########™ ##### ####",
+          "text_content": "### ###### ###### ## ##########™ ######### #### #### ##### ## ######### ### ###### ####### #### ### #### ## #### #####. ### ##### ########### ###### ####### ### #### #### ########, ##### ### ###### ##### ##### ### ###########. ",
+          "text_content_center": false,
+          "text_content_right": false,
+          "text_background_color": null,
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57947327"
+          },
+          "align_media_left": false,
+          "video": null,
+          "cta_label": "",
+          "cta_url": "",
+          "cta_color": null,
+          "cta_text_color": null
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "2025973",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "text": "Capsulized™. ####’# #### ## #### ######### ########."
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387755",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "image": {
+            "alt": null,
+            "title": null,
+            "custom_data": {},
+            "focal_point": null,
+            "upload_id": "57947325"
+          },
+          "small": false
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1389420",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "header": "",
+          "body": "## ######## ########, ## #### ### ### #### #### ##### ############ ######### ### ########### #### – ####### ### ########## ########. ## ## #### #### ##### ### ###### ######### #### #### ## ###### ### ### ###### ### #### ### ####### ## ### ##### #### ####. ### ## ## #### #### ## ######### ## ######, #######, #########, ### ##############. ####’# #### ## #### ”######### ########”. ### ####’# ####### #### ### ### 6590 ############, ####### ######## ##########™ ######## ####### ####### ##### ###.",
+          "cta_label": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1387680",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "",
+          "products": 990,
+          "cta_text": "",
+          "cta_link": ""
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1997580",
+              "type": "item_type"
+            }
+          }
+        }
+      },
+      {
+        "type": "item",
+        "attributes": {
+          "title": "######## #######",
+          "three_columns": true,
+          "list": [
+            "120893575",
+            "83627746",
+            "144399628"
+          ]
+        },
+        "relationships": {
+          "item_type": {
+            "data": {
+              "id": "1997575",
+              "type": "item_type"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "sub_title": {
+    "en": ""
+  },
+  "teaser_image": {
+    "alt": null,
+    "title": null,
+    "custom_data": {},
+    "focal_point": null,
+    "upload_id": "58498230"
+  },
+  "description": {
+    "en": ""
+  },
+  "hide_legacy_hero": {
+    "en": true
+  },
+  "plug_ingress": {
+    "en": ""
+  },
+  "image": null,
+  "video": null,
+  "video_image": null,
+  "icon_image": null,
+  "icon_information_title": {
+    "en": ""
+  },
+  "cta_text": {
+    "en": ""
+  },
+  "cta_link": {
+    "en": ""
+  },
+  "hero_icon": false,
+  "align_content_left": false,
+  "search_box": false,
+  "hero_content_box_small": false,
+  "box_color": null,
+  "hero_content_box_big": false,
+  "size_guide_button": false,
+  "work_wear_button": false,
+  "item_type": {
+    "type": "item_type"
+  },
+  "id": "144703807",
+  "exportLocale": "en",
+  "toLanguage": "da-DK"
+}
